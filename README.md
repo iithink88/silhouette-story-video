@@ -10,6 +10,17 @@
 
 ---
 
+## 🎬 示例成品（点击下载观看）
+
+| 故事 | 时长 | 下载 |
+|---|---|---|
+| 龟兔赛跑 | 48.3s | [example_guitubisai.mp4](https://github.com/iithink88/silhouette-story-video/releases/download/v1.0/example_guitubisai.mp4) |
+| 愚公移山 | 70.1s | [example_yugong.mp4](https://github.com/iithink88/silhouette-story-video/releases/download/v1.0/example_yugong.mp4) |
+
+> 两支视频都由本技能生成，可在 [Releases 页面](https://github.com/iithink88/silhouette-story-video/releases/tag/v1.0) 直接下载观看。
+
+---
+
 ## 三步上手
 
 ### 第 1 步：准备环境（只需一次）
